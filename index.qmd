@@ -1,0 +1,142 @@
+---
+title: "Writing About Tech"
+subtitle: "Code for Philly"
+author: "Julia Silge"
+date: "18 October 2022"
+format:
+  revealjs: 
+    footer: <https://juliasilge.github.io/writing-about-tech/>
+    theme: [simple, custom.scss]
+    width: 1280
+    height: 720
+    title-slide-attributes: 
+      data-background-image: figs/joanna-kosinska-VYEX2RnI1uA-unsplash.jpg
+      data-background-opacity: "0.6"
+knitr:
+  opts_chunk: 
+    echo: true
+    collapse: true
+    comment: "#>"    
+---
+
+# Hello!
+
+<center>
+
+<img src="https://github.com/juliasilge.png" style="border-radius: 50%;" width="250px"/>
+
+[{{< fa brands github >}} \@juliasilge](https://github.com/juliasilge)
+
+[{{< fa brands twitter >}} \@juliasilge](https://twitter.com/juliasilge)
+
+[{{< fa brands youtube >}} youtube.com/juliasilge](https://www.youtube.com/juliasilge)
+
+[{{< fa link >}} juliasilge.com](https://juliasilge.com/)
+
+</center>
+
+##  {background-color="white"}
+
+::: fragment
+![](figs/tmwr-cover.png){.absolute bottom="0" left="100" width="500"}
+:::
+
+::: fragment
+![](figs/smltar-cover.jpg){.absolute top="0" right="100" width="400"}
+:::
+
+::: fragment
+![](figs/tidytext-cover.png){.absolute bottom="20" left="400" width="500"}
+:::
+
+::: footer
+:::
+
+##  {background-iframe="https://www.tidyverse.org/blog/2021/05/choose-tidymodels-adventure/"}
+
+::: footer
+:::
+
+##  {background-iframe="https://stackoverflow.blog/author/julia-silge/"}
+
+::: footer
+:::
+
+##  {background-iframe="https://juliasilge.com/blog/baseball-racing/"}
+
+::: footer
+:::
+
+# Use writing as a career hack {background-image="figs/trey-gibson-LxphooAHzvc-unsplash.jpg" background-opacity="0.5"}
+
+## Use writing as a career hack
+
+::: incremental
+-   People get jobs from others they know 👯
+
+-   Your writing == evidence of your skill
+
+-   Strong writing ability increases 📈 the value of all other skills
+:::
+
+# Perfect is the enemy of done {background-image="figs/samuel-ramos-nREufpxxM8o-unsplash.jpg" background-opacity="0.3"}
+
+# Perfect is the ENEMY {background-image="figs/samuel-ramos-nREufpxxM8o-unsplash.jpg" background-opacity="0.3"}
+
+## {background-image="figs/samuel-ramos-nREufpxxM8o-unsplash.jpg" background-opacity="0.3"}
+
+{{< tweet LittleMissData 1571554988505141248 >}}
+
+
+## {background-image="figs/samuel-ramos-nREufpxxM8o-unsplash.jpg" background-opacity="0.3"}
+
+{{< tweet juliasilge 1571593312037146625 >}}
+
+## {background-image="figs/samuel-ramos-nREufpxxM8o-unsplash.jpg" background-opacity="0.3"}
+
+![](https://imgs.xkcd.com/comics/the_general_problem.png){fig-align="center}
+
+::: footer
+<https://xkcd.com/974/>
+:::
+
+# Consider writing partnerships {background-image="figs/joanna-kosinska-1_CMoFsPfso-unsplash.jpg" background-opacity="0.5"}
+
+## Consider writing partnerships
+
+::: incremental
+-   There are no unicorns 🦄
+
+-   Partnerships offer accountability 🤝
+
+-   Writing collaborations have ups and downs
+:::
+
+##  {background-iframe="https://quarto.org/"}
+
+::: footer
+:::
+
+# Thanks!
+
+<center>
+
+<img src="https://github.com/juliasilge.png" style="border-radius: 50%;" width="250px"/>
+
+[{{< fa brands github >}} \@juliasilge](https://github.com/juliasilge)
+
+[{{< fa brands twitter >}} \@juliasilge](https://twitter.com/juliasilge)
+
+[{{< fa brands youtube >}} youtube.com/juliasilge](https://www.youtube.com/juliasilge)
+
+[{{< fa link >}} juliasilge.com](https://juliasilge.com/)
+
+</center>
+
+# Thanks! {.smaller background-image="figs/joanna-kosinska-VYEX2RnI1uA-unsplash.jpg" background-opacity="0.8"}
+
+Pictures by:
+
+-   Joanna Kosinska [1](https://unsplash.com/photos/VYEX2RnI1uA) and [2](https://unsplash.com/photos/1_CMoFsPfso)
+-   [Trey Gibson](https://unsplash.com/photos/LxphooAHzvc)
+-   [Samuel Ramos](https://unsplash.com/photos/nREufpxxM8o)
